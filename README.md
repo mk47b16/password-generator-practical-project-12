@@ -1,0 +1,1 @@
+This is my first project in python for my school practical exam,This project have a python system through which the passwords are generated through random functions and customized by the user, and the data is stored in the DBMS or CSV file, through which the user can access it in future. 
